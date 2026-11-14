@@ -3,14 +3,14 @@
     "id": "com.migulu.cafestella",
     "restype": "quick_app",
     "name": "星光咖啡馆和死神之蝶",
-    "description": "𝙝𝙚𝙯𝙙𝙖𝙖𝙖的ui优化版，galgame",
+    "description": "《星光咖啡馆与死神之蝶》中文版，小米手环 9 Pro 完整移植。原作 YuzuSoft《星光咖啡馆与死神之蝶》，本移植仅供个人学习交流。包含共通线与 5 条女主路线（栞那、夏目、墨染希、爱衣、凉音）及后日谈，全剧情、全 CG，支持存档、读档、流程图与 CG 画廊。已适配机型：小米手环 9 Pro（已实测）；小米手环 8 Pro / 10 Pro",
     "preview": [
-      "media/24623.jpg",
-      "media/24624.jpg",
-      "media/24628.jpg"
+      "media/24646.jpg",
+      "media/24647.jpg",
+      "media/24645.jpg"
     ],
     "icon": "media/24621.png",
-    "cover": "media/24626.jpg",
+    "cover": "media/24648.jpg",
     "author": [
       {
         "name": "bandbbs_2198485",
