@@ -3,15 +3,14 @@
     "id": "com.migulu.cafestella",
     "restype": "quick_app",
     "name": "星光咖啡馆和死神之蝶",
-    "description": "《星光咖啡馆与死神之蝶》中文版，小米手环 9 Pro 完整移植。原作 YuzuSoft《星光咖啡馆与死神之蝶》，本移植仅供个人学习交流。包含共通线与 5 条女主路线（栞那、夏目、墨染希、爱衣、凉音）及后日谈，全剧情、全 CG，支持存档、读档、流程图与 CG 画廊。已适配机型：小米手环 9 Pro（已实测）；小米手环 8 Pro / 10 Pro",
+    "description": "《星光咖啡馆与死神之蝶》中文版，小米手环 9 Pro 完整移植。原作 YuzuSoft《星光咖啡馆与死神之蝶》，本移植仅供个人学习交流。包含共通线与 5 条女主路线（栞那、夏目、墨染希、爱衣、凉音）及后日谈，全剧情、全 CG，支持存档、读档、流程图与 CG 画廊。已适配机型：小米手环 9 Pro（已实测）；小米手环 8 Pro / 10 Pro\n\n由于平台限制hcg被基本移除\n有问题加q群",
     "preview": [
-      "media/24791.jpg",
-      "media/24792.jpg",
-      "media/24793.jpg",
-      "media/24794.jpg"
+      "media/24623.jpg",
+      "media/24624.jpg",
+      "media/24628.jpg"
     ],
     "icon": "media/24621.png",
-    "cover": "media/24700.jpg",
+    "cover": "media/24626.jpg",
     "author": [
       {
         "name": "bandbbs_2198485",
@@ -19,17 +18,23 @@
       }
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "title": "QQ交流群",
+      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=5QR0clwAm0XpRfFrENAfPAKBnHisTd7%2FV7qYpG9G9jcd0EXdF83zxUttFwz4y9N6&busi_data=eyJncm91cENvZGUiOiI1OTAyNDg3NTEiLCJ0b2tlbiI6InVoSUI4RkZ1SWRKTVZ0YUtleWp3NExGazRRVm1nY3I0aEJqMlZiQVFyRXZ2cGhzVVlDdDVZL2tDTHFIZkxpbSsiLCJ1aW4iOiIyNzM5MzM1NjA2In0%3D&data=ERuFzes-WS4aN3fP010_4-6CAwSE0e-gJTXyU-cHa7fAElCMC2JxsDNKLsGRlapH4n5O0uVbymvCsFq1DsvckA&svctype=4&tempid=h5_group_info",
+      "icon": "chat"
+    }
+  ],
   "downloads": {
-    "xmb10p": {
-      "version": "1.1.1",
-      "file_name": "downloads/com.migulu.cafestella.release.1.1.1.rpk",
-      "versionCode": 4
-    },
     "xmb9p": {
-      "version": "1.1.1",
-      "file_name": "downloads/com.migulu.cafestella.release.1.1.1.rpk",
-      "versionCode": 4
+      "version": "1.1.6",
+      "file_name": "downloads/com.migulu.cafestella.release.1.1.6.rpk",
+      "versionCode": 11
+    },
+    "xmb10p": {
+      "version": "1.1.6",
+      "file_name": "downloads/com.migulu.cafestella.release.1.1.6.rpk",
+      "versionCode": 11
     }
   },
   "ext": {}
