@@ -40,37 +40,42 @@
     },
     "xmws5": {
       "version": "1.1.6",
-      "file_name": "downloads/咖啡馆-圆表-少HCG.rpk",
-      "versionCode": 14
+      "file_name": "downloads/com.migulu.cafestella.release.1.1.6_round466_lite.rpk",
+      "versionCode": 15
     },
     "xmws3": {
       "version": "1.1.6",
-      "file_name": "downloads/咖啡馆-圆表-少HCG.rpk",
-      "versionCode": 14
+      "file_name": "downloads/com.migulu.cafestella.release.1.1.6_round466_lite.rpk",
+      "versionCode": 15
     },
     "xmb10": {
       "version": "1.1.6",
-      "file_name": "downloads/咖啡馆-胶囊-少HCG.rpk",
-      "versionCode": 15
+      "file_name": "downloads/com.migulu.cafestella.release.1.1.6_capsule192_lite.rpk",
+      "versionCode": 16
     },
     "xmb9": {
       "version": "1.1.6",
-      "file_name": "downloads/咖啡馆-胶囊-少HCG.rpk",
-      "versionCode": 15
+      "file_name": "downloads/com.migulu.cafestella.release.1.1.6_capsule192_lite.rpk",
+      "versionCode": 16
     },
     "xmb10nfc": {
       "version": "1.1.6",
-      "file_name": "downloads/咖啡馆-胶囊-少HCG.rpk",
-      "versionCode": 15
+      "file_name": "downloads/com.migulu.cafestella.release.1.1.6_capsule192_lite.rpk",
+      "versionCode": 16
     },
     "xmb11": {
       "version": "1.1.6",
-      "file_name": "downloads/咖啡馆-胶囊-少HCG.rpk",
-      "versionCode": 15
+      "file_name": "downloads/com.migulu.cafestella.release.1.1.6_capsule192_lite.rpk",
+      "versionCode": 16
     },
     "xmb11nfc": {
       "version": "1.1.6",
-      "file_name": "downloads/咖啡馆-胶囊-少HCG.rpk",
+      "file_name": "downloads/com.migulu.cafestella.release.1.1.6_capsule192_lite.rpk",
+      "versionCode": 16
+    },
+    "xmws4": {
+      "version": "1.1.6",
+      "file_name": "downloads/com.migulu.cafestella.release.1.1.6_round466_lite.rpk",
       "versionCode": 15
     }
   },
