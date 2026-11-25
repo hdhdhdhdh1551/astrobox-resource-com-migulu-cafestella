@@ -34,53 +34,53 @@
   ],
   "downloads": {
     "xmb9p": {
-      "version": "1.1.6",
-      "file_name": "downloads/com.migulu.cafestella.release.1.1.6.rpk",
-      "versionCode": 11
+      "version": "1.1.9",
+      "file_name": "downloads/com.migulu.cafestella.release.1.1.9.rpk",
+      "versionCode": 13
     },
     "xmb10p": {
-      "version": "1.1.6",
-      "file_name": "downloads/com.migulu.cafestella.release.1.1.6.rpk",
-      "versionCode": 11
+      "version": "1.1.9",
+      "file_name": "downloads/com.migulu.cafestella.release.1.1.9.rpk",
+      "versionCode": 13
     },
     "xmws5": {
-      "version": "1.1.6",
-      "file_name": "downloads/com.migulu.cafestella.release.1.1.6_round466_lite.rpk",
+      "version": "1.1.9",
+      "file_name": "downloads/com.migulu.cafestella.release.1.1.9_round466.rpk",
       "versionCode": 15
     },
     "xmws3": {
-      "version": "1.1.6",
-      "file_name": "downloads/com.migulu.cafestella.release.1.1.6_round466_lite.rpk",
+      "version": "1.1.9",
+      "file_name": "downloads/com.migulu.cafestella.release.1.1.9_round466.rpk",
       "versionCode": 15
     },
     "xmb10": {
-      "version": "1.1.6",
-      "file_name": "downloads/com.migulu.cafestella.release.1.1.6_capsule192_lite.rpk",
+      "version": "1.1.9",
+      "file_name": "downloads/com.migulu.cafestella.release.1.1.9_capsule192.rpk",
       "versionCode": 16
     },
     "xmb9": {
-      "version": "1.1.6",
-      "file_name": "downloads/com.migulu.cafestella.release.1.1.6_capsule192_lite.rpk",
+      "version": "1.1.9",
+      "file_name": "downloads/com.migulu.cafestella.release.1.1.9_capsule192.rpk",
       "versionCode": 16
     },
     "xmb10nfc": {
-      "version": "1.1.6",
-      "file_name": "downloads/com.migulu.cafestella.release.1.1.6_capsule192_lite.rpk",
+      "version": "1.1.9",
+      "file_name": "downloads/com.migulu.cafestella.release.1.1.9_capsule192.rpk",
       "versionCode": 16
     },
     "xmb11": {
-      "version": "1.1.6",
-      "file_name": "downloads/com.migulu.cafestella.release.1.1.6_capsule192_lite.rpk",
+      "version": "1.1.9",
+      "file_name": "downloads/com.migulu.cafestella.release.1.1.9_capsule192.rpk",
       "versionCode": 16
     },
     "xmb11nfc": {
-      "version": "1.1.6",
-      "file_name": "downloads/com.migulu.cafestella.release.1.1.6_capsule192_lite.rpk",
+      "version": "1.1.9",
+      "file_name": "downloads/com.migulu.cafestella.release.1.1.9_capsule192.rpk",
       "versionCode": 16
     },
     "xmws4": {
-      "version": "1.1.6",
-      "file_name": "downloads/com.migulu.cafestella.release.1.1.6_round466_lite.rpk",
+      "version": "1.1.9",
+      "file_name": "downloads/com.migulu.cafestella.release.1.1.9_round466.rpk",
       "versionCode": 15
     }
   },
